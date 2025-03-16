@@ -1,7 +1,7 @@
 name: Send Email Workflow
 
 on: 
-   workflow_dispatched:
+   workflow_dispatch:
 
 jobs:
   send-email:
